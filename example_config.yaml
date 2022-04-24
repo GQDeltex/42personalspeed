@@ -1,0 +1,42 @@
+#
+# All Dates in YYYY-MM-DD
+#
+# You can add 'start' and 'end' properties to all projects as you go
+#
+
+start: # date when your curriculum kick-off was
+projects:
+  - name: libft
+    hours: 70
+    start: # date when you started libft
+    end: # date when you finished libft
+  - name: get_next_line
+    hours: 70
+  - name: ft_printf
+    hours: 70
+  - name: born2beroot
+    hours: 40
+  - name: fdf
+    hours: 60
+  - name: minitalk
+    hours: 50
+  - name: push_swap
+    hours: 60
+  - name: minishell
+    hours: 210
+  - name: philosophers
+    hours: 70
+  - name: NetPractice
+    hours: 50
+  - name: cpp
+    hours: 63
+  - name: cub3d
+    hours: 280
+  - name: ft_containers
+    hours: 140
+  - name: ft_irc
+    hours: 175
+  - name: Inception
+    hours: 210
+  - name: ft_transcendence
+    hours: 245
